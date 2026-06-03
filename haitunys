@@ -52,7 +52,8 @@
         "api":"csp_ppnix",
         "homePage":"https://fgblh.github.io/uhuj.github.io/ppnix.html"
       },
-     {"key": "1080资源库", "name": "🐬1080资源库(有三级片)🔞", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
+      {"key": "虎牙资源", "name": "🐬虎牙资源(有三级片)", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
+      {"key": "1080资源库", "name": "🐬1080资源库(有三级片)🔞", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php", "searchable": 1, "quickSearch": 1, "filterable": 1},
      {
       "key": "非凡",
       "name": "🐬非凡影视",
@@ -372,7 +373,6 @@
       "type": 0,
       "api": "http://lbapiby.com/api.php/provide/vod/at/xml"
     },
-        {"key": "虎牙资源", "name": "🐬虎牙资源🔞", "type": 1, "api": "https://www.huyaapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
         {"key": "xbzy", "name": "🐬杏吧｜🔞", "type": 1, "api": "https://xingba111.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1},
         {"key": "无尽资源", "name": "🐬无尽资源｜🔞", "type": 1, "api": "https://api.wujinapi.net/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},
         {"key": "玉兔资源", "name": "🐬玉兔資源｜🔞", "type": 1, "api": "https://apiyutu.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 1},

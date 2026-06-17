@@ -461,6 +461,11 @@
         ],
     "parses": [ 
        {
+            "name": "聚合",
+            "type": 3,
+            "url": "Web"
+        },
+		{
       "name": "极速",
       "type": 0,
       "url": "https://jiexi.789jiexi.net:4433/?url="

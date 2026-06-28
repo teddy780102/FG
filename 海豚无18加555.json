@@ -55,7 +55,13 @@
 			"key": "kf",
 			"name": "🐬咖啡体育直播.py",
 			"type": 3,
-			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/咖啡直播..py"
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/咖啡直播.py"
+		},
+		{
+			"key": "sm",
+			"name": "🐬熊猫直播",
+			"type": 3,
+			"api": "https://ghfast.top/https://raw.githubusercontent.com/FGBLH/GHK/refs/heads/main/py/熊猫直播.py"
 		},
 		{
       "key": "非凡",
